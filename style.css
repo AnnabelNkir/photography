@@ -4,10 +4,10 @@
     background-color: rebeccapurple;
     font-style: italic;
 }
-.two{font-size: medium;
+.two{font-size: large;
     font-style: italic;
     line-height: 1.4em;
-    padding: 10px;
+    padding: 20px;
     display: block;
 }
 .three{
@@ -15,6 +15,19 @@
     text-align: left;
     font-style: italic;
     display: block;
+    line-height: 1.4em;
+}
+.four{
+    font-size: large;
+    text-align: left;
+    font-style: italic;
+    line-height: 1.4em;
+}
+.five{
+    font-size: large;
+    text-align: center
+    font-style: italic;
+    line-height: 1.4em;
 }
 h1{font-size: xx-large;
     text-align: center;
@@ -32,6 +45,7 @@ li{
     font-size: medium;
     font-family: cursive;
     font-style: italic;
+    
 }
 h3{font-size: x-large;
    text-align: left;
@@ -43,5 +57,14 @@ h3{font-size: x-large;
 .Services{
     text-align: center;
     font-style: oblique;
-    
+}
+    .Get{
+        text-align: center;
+        font-style: oblique;
+    }
+    .Gallery{
+        text-align: center;
+        font-style: oblique;
+        line-height: 1.4em;
+    }
 }
