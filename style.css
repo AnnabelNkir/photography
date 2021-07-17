@@ -1,12 +1,14 @@
 body{
     margin: 0;
     padding: 8px;
+    display: block;
     font-size: xx-large;
     font-family: serif;
     text-align: center;
     font-style: oblique;
     font-weight: bold;
     background-color: purple;
+    border: 1px;
 }
 p{font-size: medium;
 }
