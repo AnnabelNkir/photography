@@ -2,6 +2,9 @@ head{
     font-size: xx-large;
     font-family: serif;
     text-align: center;
+    font-style: inherit;
+    font-weight: 700;
+
     margin: 38px;
 }
 p{font-size: medium;
