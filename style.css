@@ -1,26 +1,24 @@
-body{
-    margin: 0;
-    padding: 8px;
-    display: block;
-    font-size: xx-large;
-    font-family: serif;
-    font-style: oblique;
-    font-weight: bold;
-    background-color: purple;
-    border: 1px;
-}
-.one{font-size: large;
-    text-align: center;
-    font-weight: 500;
 
+.one{font-size: xx-large;
+    text-align: center;
+    background-color: rebeccapurple;
+    font-style: italic;
 }
-h1{font-size: larger;
+h1{font-size: xx-large;
     text-align: center;
     font-weight: bolder;
     font-style: initial;
     font-family: cursive;
-
+    font-weight: bolder;
+    background-color: rebeccapurple;
+}
+body{
+    background-color: rebeccapurple;
 }
 li{
     font-size: small;
+    font-family: sans-serif;
+}
+h3{font-size: x-large;
+
 }
