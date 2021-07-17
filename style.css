@@ -4,15 +4,19 @@ body{
     display: block;
     font-size: xx-large;
     font-family: serif;
-    text-align: center;
     font-style: oblique;
     font-weight: bold;
     background-color: purple;
     border: 1px;
 }
 p{font-size: medium;
+
 }
-h1{font-size: large;
+h1{font-size: larger;
+    text-align: center;
+    font-weight: bolder;
+    font-style: initial;
+    font-family: cursive;
 
 }
 li{
