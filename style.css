@@ -9,7 +9,9 @@ body{
     background-color: purple;
     border: 1px;
 }
-p{font-size: medium;
+.one{font-size: large;
+    text-align: center;
+    font-weight: 500;
 
 }
 h1{font-size: larger;
