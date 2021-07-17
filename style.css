@@ -1,7 +1,8 @@
-title{
-    font-size: x-large;
+head{
+    font-size: xx-large;
     font-family: serif;
     text-align: center;
+    margin: 38px;
 }
 p{font-size: medium;
 }
