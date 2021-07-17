@@ -3,6 +3,9 @@
     text-align: center;
     background-color: rebeccapurple;
     font-style: italic;
+    text-decoration: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
 }
 .two{font-size: large;
     font-style: italic;
@@ -40,6 +43,8 @@ h1{font-size: xx-large;
 body{
     background-color: rebeccapurple;
     display: block;
+    padding: 10px 10px 10px 10px;
+    font-family: sans-serif;
 }
 li{
     font-size: medium;
@@ -53,18 +58,20 @@ h3{font-size: x-large;
 .About{
     text-align: center;
     font-style: oblique;
+    line-height: 0vmax;
 }
 .Services{
-    text-align: center;
+    text-align: left;
     font-style: oblique;
+    line-height: 0vmax;
 }
     .Get{
-        text-align: center;
+        text-align: left;
         font-style: oblique;
+        line-height: 0mm;
     }
     .Gallery{
-        text-align: center;
+        text-align: left;
         font-style: oblique;
-        line-height: 1.4em;
+        line-height: 0vmax;
     }
-}
