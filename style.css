@@ -23,7 +23,7 @@
 }
 .four{
     font-size: large;
-    text-align: left;
+    text-align: center;
     font-style: italic;
     line-height: 1.4em;
 }
@@ -70,12 +70,12 @@ h3{font-size: x-large;
     font-family: cursive;
 }
     .Get{
-        text-align: left;
+        text-align:center;
         font-style: oblique;
-        line-height: 0mm;
+        line-height: 0vmax;
     }
     .Gallery{
-        text-align: left;
+        text-align:center;
         font-style: oblique;
         line-height: 0vmax;
     }
