@@ -6,7 +6,7 @@
     text-decoration: blueviolet;
     font-family: 'Courier New', Courier, monospace;
 }
-}
+
 .two{font-size: large;
     font-style: italic;
     line-height: 1.4em;
@@ -19,6 +19,7 @@
     font-style: italic;
     display: block;
     line-height: 1.4em;
+    font-family: cursive;
 }
 .four{
     font-size: large;
@@ -31,12 +32,13 @@
     text-align: center
     font-style: italic;
     line-height: 1.4em;
+    
 }
 h1{font-size: xx-large;
     text-align: center;
     font-weight: bolder;
     font-style: initial;
-    font-family: cursive;
+    font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
     background-color: rebeccapurple;
 }
@@ -44,7 +46,7 @@ body{
     background-color: rebeccapurple;
     display: block;
     padding: 10px 10px 10px 10px;
-    font-family: sans-serif;
+    font-family:cursive;
 }
 li{
     font-size: medium;
@@ -54,6 +56,7 @@ li{
 }
 h3{font-size: x-large;
    text-align: left;
+   font-family: cursive;
 }
 .About{
     text-align: center;
@@ -61,9 +64,10 @@ h3{font-size: x-large;
     line-height: 0vmax;
 }
 .Services{
-    text-align: left;
+    text-align: center;
     font-style: oblique;
     line-height: 0vmax;
+    font-family: cursive;
 }
     .Get{
         text-align: left;
